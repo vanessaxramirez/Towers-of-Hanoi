@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/build",
+  "command": "/usr/bin/clang++ -I/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/src -I/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/ITPLib -F/Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/System/Library/Frameworks -g -std=gnu++17 -arch arm64 -o CMakeFiles/main.dir/main.cpp.o -c /Users/vanessa/Documents/GitHub/p2-vanessaxramirez/main.cpp",
+  "file": "/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/build",
+  "command": "/usr/bin/clang++ -I/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/src -I/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/ITPLib -g -std=gnu++17 -arch arm64 -o src/CMakeFiles/src.dir/disk.cpp.o -c /Users/vanessa/Documents/GitHub/p2-vanessaxramirez/src/disk.cpp",
+  "file": "/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/src/disk.cpp",
+  "output": "src/CMakeFiles/src.dir/disk.cpp.o"
+},
+{
+  "directory": "/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/build",
+  "command": "/usr/bin/clang++ -I/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/src -I/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/ITPLib -g -std=gnu++17 -arch arm64 -o src/CMakeFiles/src.dir/peg.cpp.o -c /Users/vanessa/Documents/GitHub/p2-vanessaxramirez/src/peg.cpp",
+  "file": "/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/src/peg.cpp",
+  "output": "src/CMakeFiles/src.dir/peg.cpp.o"
+},
+{
+  "directory": "/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/build",
+  "command": "/usr/bin/clang++ -I/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/src -I/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/ITPLib -g -std=gnu++17 -arch arm64 -o src/CMakeFiles/src.dir/towers.cpp.o -c /Users/vanessa/Documents/GitHub/p2-vanessaxramirez/src/towers.cpp",
+  "file": "/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/src/towers.cpp",
+  "output": "src/CMakeFiles/src.dir/towers.cpp.o"
+}
+]
