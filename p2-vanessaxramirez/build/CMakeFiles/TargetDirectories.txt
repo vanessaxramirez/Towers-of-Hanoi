@@ -1,0 +1,6 @@
+/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/build/CMakeFiles/main.dir
+/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/build/CMakeFiles/edit_cache.dir
+/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/build/CMakeFiles/rebuild_cache.dir
+/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/build/src/CMakeFiles/src.dir
+/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/build/src/CMakeFiles/edit_cache.dir
+/Users/vanessa/Documents/GitHub/p2-vanessaxramirez/build/src/CMakeFiles/rebuild_cache.dir
